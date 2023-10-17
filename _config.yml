@@ -5,6 +5,6 @@ description: Diis Desc
 header_pages:
   - about.md
   - Publications.md
-  - teaching.md
-  - game.md
+  - content.md
+  - hobby.md
   - index.md
