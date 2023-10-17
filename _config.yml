@@ -1,0 +1,10 @@
+theme: minima
+title: DIIS Dev Sec Ops
+author: Suttipong
+description: Diis Desc
+header_pages:
+  - about.md
+  - Publications.md
+  - teaching.md
+  - game.md
+  - index.md
