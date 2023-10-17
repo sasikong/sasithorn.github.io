@@ -3,8 +3,5 @@ title: "Publications"
 ---
 
 My publications:
-1. one
-2. two
-3. three
-4. four
-5. five
+1. Harry Potter and the Deathly Hallows.
+2. Harry Potter and the Goblet of Fire.
