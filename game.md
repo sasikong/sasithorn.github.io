@@ -1,7 +1,8 @@
 ---
-title: Game
+title: Hobby
 ---
 
-My games:
-1. mario
-2. Pokemon
+My Hobby:
+1. Reading 
+2. Listening to music
+3. Doing crafts
