@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Content
 ---
 
 My Content
