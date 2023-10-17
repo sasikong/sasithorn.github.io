@@ -1,10 +1,10 @@
 theme: minima
 title: DIIS Dev Sec Ops
-author: Suttipong
-description: Diis Desc
+author: SASI.K
+description: PSU DIIS
 header_pages:
   - about.md
   - Publications.md
-  - teaching.md
-  - game.md
+  - content.md
+  - hobby.md
   - index.md
