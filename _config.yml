@@ -1,0 +1,10 @@
+theme: minima
+title: DIIS Dev Sec Ops
+author: SASITHORN
+description: Diis Desc
+header_pages:
+  - about.md
+  - Publications.md
+  - content.md
+  - hobby.md
+  - index.md
