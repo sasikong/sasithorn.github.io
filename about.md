@@ -2,4 +2,6 @@
 title: "About"
 ---
 
-Hi It,s MeSasi Kong.
+
+Hello, it’s me **SASI KONG.**
+
